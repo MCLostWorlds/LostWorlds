@@ -1,0 +1,7 @@
+name: LostWorlds
+author: OhYea777
+main: com.mclostworlds.LostWorlds
+version: 1.0
+
+commands:
+  mine: {}
